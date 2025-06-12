@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0812-rotate-string) |
 ## Stack
 |  |
