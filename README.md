@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0812-rotate-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Trie
 |  |
 | ------- |
