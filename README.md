@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0409-longest-palindrome) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0409-longest-palindrome) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/2186-count-vowel-substrings-of-a-string) |
