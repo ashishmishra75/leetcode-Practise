@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0953-reverse-only-letters) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0290-word-pattern) |
