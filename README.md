@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
