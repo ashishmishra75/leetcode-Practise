@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
