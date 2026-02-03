@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashishmishra75/leetcode-Practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0344-reverse-string) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashishmishra75/leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
